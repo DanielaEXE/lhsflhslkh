@@ -55,3 +55,6 @@ table {
     border: 5px ridge #FFD700 ;
     margin: 15px;
 }
+.o {
+   border: #FFD700 3px ridge; 
+}
